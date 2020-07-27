@@ -4,7 +4,7 @@ Blazing CRM fa parte del progetto **[Blazing Code](https://etabetaweb.github.io/
 
 ### Come funziona
 
-Scarica il codice, leggi l'eBook "Blazing CRM" e segui passo-passo il tutorial per lo sviluppo dell'applicazione.
+Scarica il codice, leggi l'eBook "Blazing CRM" e segui i "**CODEPOINTS**" del tutorial per lo sviluppo dell'applicazione.
 
 Ogni repository è composto da due cartelle:
 

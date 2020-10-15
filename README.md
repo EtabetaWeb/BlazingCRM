@@ -1,6 +1,6 @@
 ## NOTA
 
-**Il progetto è in fase di manutenzione. L'eBook ed il codice con il tutorial non al momento sono visibili. Seleziona il pulsante "Watch" (in alto a destra) per ricevere la notifica sui nuovi contenuti.**
+**Il progetto è in fase di manutenzione. L'eBook ed il codice con il tutorial, al momento, non sono visibili. Seleziona il pulsante "Watch" (in alto a destra) per ricevere la notifica sui nuovi contenuti.**
 
 ## Benvenuto in Blazing CRM!
 
